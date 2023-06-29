@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pie Chart</title>
+    <style>
+        body, html {
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          font-family: "Helvetica", Arial, sans-serif;
+          background-color: rgb(249, 249, 249);
+        }
+        .link-button {
+            display: inline-block;
+            margin-right: 10px;
+            padding: 5px 12px;
+            background-color: #052679;
+            border: none;
+            text-decoration: none;
+            color: rgb(252, 252, 252);
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 2em;
+        }
+    </style>
+</head>
+<body> 
+  <h1>Popular Languages By Public Git Repositories</h1>
+  <div>
+    <button class="link-button" onclick="window.location.href='reposPie.html'">Popular Languages By Public Git Repo</button>
+    <button class="link-button" onclick="window.location.href='prs.html'">Git PRs Yearly Trend</button>
+    <button class="link-button" onclick="window.location.href='issues.html'">Git issues Yearly Trend</button>
+  </div>
+  <svg id="chart"></svg>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="reposPie.js"></script>
+</body>
+</html>
