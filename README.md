@@ -1,8 +1,8 @@
 # Data Visualization of Popular Programming Languages: 2011-2021
 This project showcases data visualization to highlight the popularity of programming languages by analyzing year over year total issues, year over year pull requests (PRs), and repository data from public GitHub repositories from 2011 to 2021.The project utilizes the D3.js library for data visualization. 
 ![image](https://github.com/ParulK-bhardwaj/language-data-visualization/assets/111934039/b92e99f4-dcc2-4100-ad63-d3a9c5dc487c)
-![image](https://github.com/ParulK-bhardwaj/language-data-visualization/assets/111934039/b9c5588b-0c92-43e4-91ee-dfea9d5c16ca)
-![image](https://github.com/ParulK-bhardwaj/language-data-visualization/assets/111934039/5d010ff6-bec9-4b7b-9709-546afd415861)
+![image](https://github.com/ParulK-bhardwaj/language-data-visualization/assets/111934039/36a3ce7b-2e9c-4ff3-9550-ead21609d90a)
+![image](https://github.com/ParulK-bhardwaj/language-data-visualization/assets/111934039/9f88d4a3-a87c-45f4-aa43-3f42a2aa9571)
 
 
 
