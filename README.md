@@ -43,5 +43,6 @@ This data was queried and aggregated from BigQuery's public github_repos and git
 
 ### Limitations
 Only data for public GitHub repositories, and their corresponding PRs/issues, have their data available publicly. Thus, this dataset is only based on public repositories, which may not be fully representative of all repositories on GitHub.
-#### Data Context is picked from this kaggle source
+
+#### The data and Data Context is picked from this kaggle source
 https://www.kaggle.com/datasets/isaacwen/github-programming-languages-data
